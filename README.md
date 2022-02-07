@@ -8,7 +8,7 @@ This is backend project for coffee store
 ├── coffee-store-be
 │   ├── store
 │   │   ├── store.service.js          # Get store details
-│   │   ├── store.comtroller.js       # express.Router for user API
+│   │   ├── store.comtroller.js       # express.Router for store API
 │   ├── helpers
 │   │   ├── error.handler            # This is for error handling
 │   ├── server.js                    # This is the root component of the application
